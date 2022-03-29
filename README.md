@@ -1,7 +1,7 @@
 Name: Daniel Berger <br />
-Skills: Sometimes
-Interests: Anything Tech or Sci-fi
-What I want: To learn all the things, code, software, hardware and maybe one day travel to the Forest Moon of Endor...
+Skills: Sometimes <br />
+Interests: Anything Tech or Sci-fi <br />
+What I want: To learn all the things, code, software, hardware and maybe one day travel to the Forest Moon of Endor... <br />
 - 📫 How to reach me - Put up the Dan signal, I'll find you
 
 <!---
