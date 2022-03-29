@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Canvadan
-- 👀 I’m interested in anything Tech.
-- 🌱 I’m currently learning anything I can get my mitts on
-- 💞️ I’m looking to collaborate on any project I can be engaged in
+Name: Daniel Berger
+Skills: Sometimes
+Interests: Anything Tech or Sci-fi
+What I want: To learn all the things, code, software, hardware and maybe one day travel to the Forest Moon of Endor...
 - 📫 How to reach me - Put up the Dan signal, I'll find you
 
 <!---
